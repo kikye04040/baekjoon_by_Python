@@ -1,2 +1,3 @@
-# baekjoon_by_Python
-백준 알고리즘 풀이 by Python
+# 백준 알고리즘 풀이
+
+👥 매일 하나하나 차곡차곡 풀어보기 ‼️
